@@ -30,4 +30,6 @@ Installation is as easy as an computer,we ship,you just plugin,that’s it
 Clients DIY ordering
 Clients walk in and order using Smart POS without any helps from store owners, save time
 
-Please visit our website:http://smarttpos.com
+For more details please visit our website : http://smarttpos.com
+
+We are based on London office. 
